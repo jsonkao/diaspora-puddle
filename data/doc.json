@@ -1,1 +1,14 @@
-{}
+{
+  "headline": "Diaspora Project",
+  "date": "March 15, 2021",
+  "byline": "By Jason Kao",
+  "top": [],
+  "body": [
+    {
+      "type": "graphic",
+      "value": {
+        "asset": "test.html"
+      }
+    }
+  ]
+}
