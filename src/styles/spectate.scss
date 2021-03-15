@@ -465,7 +465,7 @@ header {
 }
 
 .width-auto {
-  max-width: 600px;
+  max-width: $gbody-width;
 }
 
 // full-width image --> full-bleed image

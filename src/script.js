@@ -15,7 +15,11 @@ for (const div of document.getElementsByClassName('repeat')) {
   }
 
   p.innerHTML = word.repeat(
-    numWordsAcross * Math.min(Math.max(Math.floor(window.innerHeight / initialHeight), 17), 24)
+    numWordsAcross *
+      Math.min(
+        Math.max(Math.floor(window.innerHeight / initialHeight), 17),
+        24,
+      ),
   );
 }
 

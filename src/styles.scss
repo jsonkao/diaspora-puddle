@@ -17,6 +17,40 @@ video {
   display: block;
 }
 
+.dual-video {
+  display: flex;
+  max-width: 1200px;
+  width: calc(100% - 40px);
+  margin: 30px auto;
+  padding: 50px 0;
+  align-items: flex-end;
+  background-color: #000;
+
+  div {
+    flex: 1 1 0px
+  }
+
+  video {
+    width: 100%;
+  }
+
+  div:first-child { padding-left: 30px; padding-right: 15px; }
+  div:last-child { padding-right: 30px; padding-left: 15px; }
+}
+
+.dual-faces {
+  max-width: 460px;
+  display: flex;
+  width: calc(100% - 40px);
+  margin: 30px auto;
+  justify-content: space-between;
+
+  div {
+    flex: 1 1 0px
+  }
+  img { width: 100%; max-width: 160px; }
+}
+
 .caption {
   margin: 7px auto -9px;
   padding-left: 16px;
@@ -39,7 +73,7 @@ video {
   }
 }
 
-p.blockquote span {
+p.paragraph span.blockquote {
   display: block;
   padding-left: 40px;
 }
@@ -63,10 +97,16 @@ p.blockquote span {
 }
 
 audio {
-  margin: 0 auto;
+  margin: 20px auto;
   display: block;
 }
 
 video, audio {
   outline: none;
+}
+
+div.image.mobile {
+  max-width: 460px;
+  width: calc(100% - 40px);
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
