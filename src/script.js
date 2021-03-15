@@ -1,41 +1,35 @@
-import textBalancer from 'text-balancer';
-import initiatePage from './scripts/page';
-import { intersectTop } from './scripts/utils';
+/* Repeat graphics */
 
-import { spectate as spectateConfig } from '../package.json';
+for (const div of document.getElementsByClassName('repeat')) {
+  const word = div.getAttribute('data-word') + ' ';
+  const p = document.createElement('p');
+  div.appendChild(p);
 
-// Main page initiation
+  p.innerHTML = word;
+  let numWordsAcross = 0;
+  const initialHeight = p.offsetHeight;
 
-initiatePage();
+  while (p.offsetHeight < initialHeight * 2) {
+    p.innerHTML += word;
+    numWordsAcross += 1;
+  }
 
-// Fade in navbar at scroll trigger
-
-const navbar = document.getElementById('navbar');
-
-const { USE_NEWS_NAV, USE_EYE_NAV, USE_COVER_HED } = spectateConfig;
-if (USE_NEWS_NAV || USE_EYE_NAV || USE_COVER_HED) {
-  intersectTop({
-    node: document.getElementById('headline'),
-    onEnter: () => {
-      navbar.classList.remove('only-eye-logo');
-      navbar.classList.remove('hide-news-navbar');
-    },
-    onExit: () => {
-      navbar.classList.remove('show-nav-links');
-      navbar.classList.add('only-eye-logo');
-      navbar.classList.add('hide-news-navbar');
-    },
-  });
+  p.innerHTML = word.repeat(
+    numWordsAcross * Math.min(Math.max(Math.floor(window.innerHeight / initialHeight), 17), 24)
+  );
 }
 
-// Mobile navbar hamburger trigger
+/* Google translate graphic */
 
-export function hamburgerTrigger() {
-  navbar.classList.toggle('show-nav-links');
-}
+const { children: gtImages } = document.getElementById('google-translate');
+let state = 0;
 
-// Text balance headline, deck, and image captions
-
-if (window.innerWidth <= 460) {
-  textBalancer.balanceText('#headline, .deck, .image-caption-text');
-}
+setInterval(() => {
+  if (state > 0) {
+    gtImages[state].style.opacity = 1;
+  } else {
+    gtImages[1].style.opacity = 0;
+    gtImages[2].style.opacity = 0;
+  }
+  state = (state + 1) % 3;
+}, 2500);

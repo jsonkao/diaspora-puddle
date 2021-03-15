@@ -9,13 +9,82 @@
         "top": [],
         "body": [
           {
+            "type": "text",
+            "value": "Kao"
+          },
+          {
+            "type": "text",
+            "value": "The three letters in the word “Kao” always seemed less Eastern to me — less than, at least, the Chen’s and Wu’s and Li’s who were read off attendance roll calls like huge families arriving at a restaurant. I always felt that Kao made me different somehow, different in a good way. The name wasn’t as Asian. It wasn’t as revealing. No one would know that I was Asian, at least at that nominal stage of interaction. Though this is how I justified it, when people would come to see my face, I would not register that they knew I was Asian either."
+          },
+          {
+            "type": "text",
+            "value": "Kao, 高, is a frequent family name in Taiwan. I’ve met a good number of Kao’s and Gao’s (two valid Anglicizations of 高) in America as well. When I thought of those Kao’s, I knew them to be Asian. Yet when I thought of myself, I still was not. That prominent labelling was not an Eastern mark to me. Because when I saw myself, I saw no Eastern mark."
+          },
+          {
             "type": "graphic",
             "value": {
-              "asset": "test.html"
+              "asset": "over-and-over.html",
+              "word": "Kao"
             }
+          },
+          {
+            "type": "text",
+            "value": "Chan is Missing"
+          },
+          {
+            "type": "text",
+            "value": "In Wayne Wang’s 1982 feature <i>Chan is Missing</i>, Jo, a taxi driver, and his nephew Steve seek to find their business partner Chan Hung, who has disappeared with their money. Chan Hung, his disappearance, and his search mission comes to embody the loss, longing, and diversity of identity among Chinese-Americans. During their search, Presco, an employee at a senior center Chan Hung frequents ends up recounting the sudden disability of Chan Hung’s musician friend:"
+          },
+          {
+            "type": "video",
+            "value": {
+              "asset": "puddle.mp4",
+              "caption": "“One time he woke up, and he woke up that way.”"
+            }
+          },
+          {
+            "type": "text",
+            "value": "In the puddle, Jo and Steve are meant to find Chan. They are meant to resolve a condition of cultural displacement they were born into, the birth signified by Presco saying, “one time he woke up, and he woke up that way.” It is a cultural loss that has made Jo a lonely, sympathetic man and Steve aggressive in his American identity, something he has tied to his masculinity as well."
+          },
+          {
+            "type": "video",
+            "value": {
+              "asset": "pants.mp4",
+              "caption": "“He reminds me of my old man that way, y’know? Fuckin’ embarassing.”"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The film is truly peculiar, bringing to mind Du Bois’ notion of two-ness in the first page of <i>The Souls of Black Folk</i>: “two souls, two thoughts, two unreconciled strivings.”"
+          },
+          {
+            "type": "text",
+            "value": "What is my puddle? In what do I see to resolve my conflict?"
+          },
+          {
+            "type": "text",
+            "value": "Finding a puddle and depending on your reflection to save you"
+          },
+          {
+            "type": "text",
+            "value": "There is no resolution in the film. This scene is the first and last time we hear of Chan’s friend. Indeed he says, “‘the only person who can fix him is that person in the puddle.’” “Can”, not will, not has."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "google-translate.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Kao is my"
+          },
+          {
+            "type": "audio",
+            "value": "remembered-film"
           }
         ],
-        "headline": "Diaspora Project",
+        "headline": "Where do Puddles Go?",
         "date": "March 15, 2021",
         "byline": "By Jason Kao",
         "USE_NEWS_NAV": true,

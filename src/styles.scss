@@ -2,3 +2,71 @@
 
 // Uncomment the following line before publishing a News story
 // @import "styles/news-ellipsis";
+
+.video-container {
+  margin: 30px auto;
+  max-width: 1200px;
+  padding: 50px 0;
+  background-color: #000;
+}
+
+video {
+  max-width: 700px;
+  width: calc(100% - 40px);
+  margin: 0 auto;
+  display: block;
+}
+
+.caption {
+  margin: 7px auto -9px;
+  padding-left: 16px;
+  font-style: italic;
+  color: white;
+  max-width: 700px;
+  width: calc(100% - 40px);
+}
+
+.repeat {
+  font-size: 27px;
+  font-family: Graphik; 
+  background-color: white;
+  background: linear-gradient(to bottom right, #222, #222, #ff6b08, #f32170, #cf23cf, #eedd44);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+
+  p {
+    text-align: center;
+  }
+}
+
+p.blockquote span {
+  display: block;
+  padding-left: 40px;
+}
+
+#google-translate {
+  max-width: 700px;
+  width: calc(100% - 40px);
+  margin: 30px auto;
+  display: block;
+  position: relative;
+
+  img {
+    position: relative;
+    width: 100%;
+    transition-duration: 0.3s;
+  }
+
+  img:not(:last-child) {
+    position: absolute;
+  }
+}
+
+audio {
+  margin: 0 auto;
+  display: block;
+}
+
+video, audio {
+  outline: none;
+}
