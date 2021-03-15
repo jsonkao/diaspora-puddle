@@ -6,7 +6,7 @@
   "body": [
     {
       "type": "text",
-      "value": "The three letters in the word “Kao” always seemed less Eastern to me — less than, at least, the Chen’s and Wu’s and Li’s who were read off attendance roll calls like huge families arriving at a restaurant. I always felt that Kao made me different somehow, different in a good way. The name wasn’t as Asian. It wasn’t as revealing. No one would know that I was Asian, at least at that nominal stage of interaction. Though this is how I justified it, when people would come to see my face, I would not register that they knew I was Asian either."
+      "value": "The three letters in the word “Kao” always seemed less Eastern to me — less than, at least, the Chen’s and Wu’s and Li’s who were read off attendance roll calls like huge families arriving at a restaurant. I felt that Kao made me different somehow, different in a good way. The name wasn’t as Asian. It wasn’t as revealing. No one would know that I was Asian, at least at that nominal stage of interaction."
     },
     {
       "type": "text",
@@ -115,7 +115,7 @@
       "value": {
         "asset": "teen-broad.png",
         "width": "full-width",
-        "caption": "A <strike>Google</strike> White Search."
+        "caption": "A <strike>Google</strike> White Image Search."
       }
     },
     {
@@ -128,7 +128,7 @@
     },
     {
       "type": "text",
-      "value": "Groups like the Los Angeles School of Black Filmmakers or the Asian American Theater Company explicitly challenged dominant White views of people of color and American life. Photography and film are extremely important in this way."
+      "value": "Groups like the Los Angeles School of Black Filmmakers and the Asian American Theater Company explicitly challenged dominant White views of people of color and American life. Photography and film are extremely important in this way."
     },
     {
       "type": "text",
@@ -161,18 +161,19 @@
     },
     {
       "type": "text",
-      "value": "They both play off Chinese identity in favor of their Wester ones. Steve, a third-generation immigrant, sees himself as an American, a bystander spectating the conflicting Asian identities circling not within, but without him. Wye Mun, as if answering Steve, assures the table he is not a “PRC” Chinese, not a “Oakland Hill·wa?”, but a “Cal State Fullerton” Chinese. But the two have radically different journeys in the movie."
+      "value": "They both play off Chinese identity in favor of their Wester ones. Steve, a third-generation immigrant, sees himself as an American, a bystander spectating the conflicting Asian identities circling not within, but without. Wye Mun, as if answering Steve, assures the table he is not a “PRC” Chinese, not a “Oakland Hill·wa?”, but a “Cal State Fullerton” Chinese who studied in the States. But the two have radically different journeys in the movie."
     },
     {
       "type": "dual-faces",
       "value": {
         "face1": "face-steve.png",
-        "face2": "face-ken.png"
+        "face2": "face-ken.png",
+        "caption": "The final frames of the two videos."
       }
     },
     {
       "type": "text",
-      "value": "Steve’s aggression in his rejection of identity serves to highlight the loss and sympathy that Jo feels for Chan Hung. In this way Steve builds one character with Jo, as they represent two faces of Chinese-American identity. But for Wye Mun, the issue is a one-off joke just to say, “don’t worry, we’re not <i>those</i> kinds of Asians”, and bury the issue soon after."
+      "value": "Steve’s aggression in his rejection of identity serves to highlight the loss and sympathy that Jo feels for Chan Hung. In this way Steve builds one character with Jo, as they represent two faces, of many, of Chinese-American identity. But for Wye Mun, the issue is a one-off joke just to say, “don’t worry, we’re not <i>those</i> kinds of Asians.”"
     },
     {
       "type": "text",
@@ -186,5 +187,6 @@
       "type": "blockquote",
       "value": "Each character in <i>Chan is Missing</i> holds a doughnut which contains the possibilities for Chinese American identity in its center; each character glances in the puddle and takes one bite from the doughnut in an attempt to find her/his access to the center. The big doughnut made up of all the little doughnuts—a doughnut akin to the construction of Chinese American identity which the spectator viewing <i>Chan Is Missing</i> is left with—is almost meaningless, almost wholly \"hole.\" Whereas each character fixes Chan Hung in an attempt to fix her/his own identity, the spectator is not allowed to occupy any one of these fixed perspectives but must instead negotiate all of them. Thus each character's bite out of the doughnut—each character's attempt to limit the range of identities for Chan Hung—opens up the interval in the spectator's doughnut, widening the space for spectatorial subjectivity and, by extension, Asian American subjectivity. <i>Chan Is Missing</i>, by showing us why it is impossible to know precisely who we are as Chinese Americans, shows us how we might discover how we can become Asian Americans."
     }
-  ]
+  ],
+  "footer": "Footage and imagery of <i>Chan is Missing</i> sourced from <a href=\"https://www.youtube.com/watch?v=EhgSui0V_qY&t=1382s\">YouTube</a>. Footage and imagery of <i>Crazy Rich Asians </i>sourced from <a href=\"https://www.youtube.com/watch?v=ZrsYIthVY-Y\">YouTube</a>."
 }

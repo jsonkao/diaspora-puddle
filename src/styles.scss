@@ -44,20 +44,49 @@ video {
   }
 }
 
+@keyframes fade {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
 .dual-faces {
-  max-width: 460px;
+  max-width: 500px;
   display: flex;
   width: calc(100% - 40px);
-  margin: 30px auto;
+  margin: 30px auto 6px;
   justify-content: space-between;
 
   div {
-    flex: 1 1 0px;
+    position: relative;
   }
+
   img {
     width: 100%;
     max-width: 160px;
   }
+
+  div:nth-child(2) {
+    img:first-child {
+      position: absolute;
+    }
+    img:last-child {
+      animation: fade 9s ease-in-out infinite;
+    }
+  }
+}
+
+.faces-caption {
+  font-style: italic;
+  text-align: center;
+  font-size: 16px;
+  margin-bottom: 15px;
 }
 
 .caption {
@@ -70,16 +99,22 @@ video {
 }
 
 @keyframes flow {
-  0% { background-position: 0 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0 50%; }
+  0% {
+    background-position: 0 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0 50%;
+  }
 }
 .repeat p {
   font-size: 27px;
   font-family: Graphik;
   background-size: 200% auto;
   background-color: white;
-  background: linear-gradient(to bottom right, #222, #222,  #222, #ff6b08, #f32170, #cf23cf, #eedd44);
+  background: linear-gradient(to bottom right, #222, #222, #222, #ff6b08, #f32170, #cf23cf, #eedd44);
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
