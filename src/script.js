@@ -14,12 +14,8 @@ for (const div of document.getElementsByClassName('repeat')) {
     numWordsAcross += 1;
   }
 
-  p.innerHTML = word.repeat(
-    numWordsAcross *
-      Math.min(
-        Math.max(Math.floor(window.innerHeight / initialHeight), 17),
-        24,
-      ),
+  p.innerHTML = (word.repeat(numWordsAcross - 1) + '<br/>').repeat(
+    Math.min(Math.max(Math.floor(window.innerHeight / initialHeight), 17), 24),
   );
 }
 

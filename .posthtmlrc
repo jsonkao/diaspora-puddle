@@ -55,11 +55,7 @@
           },
           {
             "type": "text",
-            "value": "<b>Parents</b>"
-          },
-          {
-            "type": "text",
-            "value": "I turn to my parents, but I meet indistinct figures. It’s hard to represent, within myself, the ideas of mother and father. Those two words do not remind me of my parents, nor do any English words and names, as I never called them in English when I was a child. I called them in Mandarin: <span class=\"soundcite\" data-url=\"https://github.com/jsonkao/diaspora/raw/main/src/assets/parents.m4a\" data-start=\"0\" data-end=\"3000\" data-plays=\"1\">爸爸, 妈妈</span>. Even seeing those characters does not offer a fulfilling representation of my parents as I barely wrote or read Mandarin in my childhood. And if I close my eyes and play the audio in my head, saying the words 爸爸 and 妈妈 out loud to myself…"
+            "value": "I would turn to my parents, but I meet indistinct figures. It’s hard to represent, within myself, the ideas of mother and father. Those two words do not remind me of my parents, nor do any English words and names, as I never called them in English when I was a child. I called them in Mandarin: <span class=\"soundcite\" data-url=\"https://github.com/jsonkao/diaspora/raw/main/src/assets/parents.m4a\" data-start=\"0\" data-end=\"3000\" data-plays=\"1\">爸爸, 妈妈</span>. Even seeing those characters does not offer a fulfilling representation of my parents as I barely wrote or read Mandarin in my childhood. And if I close my eyes and play the audio in my head, saying the words 爸爸 and 妈妈 out loud to myself…"
           },
           {
             "type": "graphic",
@@ -71,6 +67,10 @@
           {
             "type": "text",
             "value": "…the representation always feels inadequate no matter how hard I try because I haven’t referred to them in that way in so long. I grew out of it. As I was immersed in English life, I did not replace 爸妈 with English words. Those words were displaced in my vocabulary. And with that linguistic loss, I stopped calling to my parents altogether, only referencing them if absolutely necessary. What I preserve is a sliver of the idea of mother and father, a wisp of memory."
+          },
+          {
+            "type": "text",
+            "value": "I recently told this to my partner, Charlotte. She was raised in China and immigrated to America just before her first year of high school. She had noticed that the contact names of my parent sin my phone were Heidi and Kevin (this began when I had seen my elementary school friends doing the same with their parents). She suggested I change the names of my parents in my phone to 妈妈 and 爸爸."
           },
           {
             "type": "text",
@@ -88,19 +88,11 @@
           },
           {
             "type": "text",
-            "value": "I recently told this to my partner, Charlotte. She was raised in China and immigrated to America just before her first year of high school. She suggested I change the names of my parents in my phone from Heidi and Kevin (I saw my elementary school friends doing the same with their parents) to 妈妈 and 爸爸."
+            "value": "***"
           },
           {
             "type": "text",
-            "value": "The first time I’ve ever talked about Asian or Asian-American identity with my parents was the last summer, when my 爸爸 offhandedly explained that my 妈妈, who is lenient about mask-wearing, kept to wearing her mask because they were fearful of anti-Asian violence."
-          },
-          {
-            "type": "text",
-            "value": "<b>Chan is Missing 2</b>"
-          },
-          {
-            "type": "text",
-            "value": "After my first viewing of Wang’s film, I could not let go of the thought, <i>their English doesn’t sound like mine</i>. I didn’t know why until my dialogue with Charlotte."
+            "value": "After my first viewing of Wang’s film, I could not let go of the thought, <i>their English doesn’t sound like mine</i>. I didn’t know why until a conversation with Charlotte."
           },
           {
             "type": "audio",
@@ -108,11 +100,15 @@
           },
           {
             "type": "text",
-            "value": "I realized that I had been looking for myself in the film, the first time I had ever engaged with film or literature in this way, with this want — a hidden expectation — of belonging I had developed after not feeling at home on either side of the ocean. And between Jo’s slight Chinese accent and Steve’s heavy American accent, I hadn’t found it. The disappointment stuck with me because it was one of my first."
+            "value": "I realized that I had been looking for myself in the film, the first time I had ever engaged with film or literature in this way, with this want — a hidden expectation — of belonging I had developed after not feeling at home on either side of the ocean. And between Jo’s slight Chinese accent and Steve’s heavy American accent, I hadn’t found it. The disappointment stuck with me because it was one of my first. I found that Charlotte shared a similar feeling when surveying the characters of American society:"
+          },
+          {
+            "type": "audio",
+            "value": "spectrum"
           },
           {
             "type": "text",
-            "value": "But after the dialogue I felt the need to rewatch the film. I did some research online, but at the beginning it was fruitless. The two most popular reviews were by white film critics. Vincent Canby described the film <a href=\"https://www.nytimes.com/1982/04/24/movies/chan-is-missing-in-chinatown.html\">in </a><a href=\"https://www.nytimes.com/1982/04/24/movies/chan-is-missing-in-chinatown.html\"><i>The New York Times</i></a><i> </i>as “an appreciation of a way of life that few of us know anything about,” and Roger Ebert <a href=\"https://www.rogerebert.com/reviews/chan-is-missing-1982\">wrote</a> that the film offered a “look at some real Chinese-Americans.” It wasn’t until I came across the film’s Wikipedia page that I realized the purpose of the film had completely gone over my head: the search for Chan was a search for identity. I wasn’t supposed to use Steve or Jo or anyone else in the film as a model Asian-American. I was to share the characters’ journeys and follow them through their confusion, their discoveries, their chase after Chan Hung. And like most meaningful questions — or “appropriately Chinese” ones as Jo says — Chan is never found. We are left with remnants, memories, blurry photographs, his jacket, his cookies, his dialogues. Wang has done something I’ve never seen any film do: build a journey for the Asian-American viewer. It is not simply representation."
+            "value": "After the dialogue I felt the need to rewatch the film. I did some research online, but at the beginning it was fruitless. The two most popular reviews were by white film critics. Vincent Canby described the film <a href=\"https://www.nytimes.com/1982/04/24/movies/chan-is-missing-in-chinatown.html\">in </a><a href=\"https://www.nytimes.com/1982/04/24/movies/chan-is-missing-in-chinatown.html\"><i>The New York Times</i></a><i> </i>as “an appreciation of a way of life that few of us know anything about,” and Roger Ebert <a href=\"https://www.rogerebert.com/reviews/chan-is-missing-1982\">wrote</a> that the film offered a “look at some real Chinese-Americans.” It wasn’t until I came across the film’s Wikipedia page that I realized the purpose of the film had completely gone over my head: the search for Chan was a search for identity. I wasn’t supposed to use Steve or Jo or anyone else in the film as a model Asian-American. I was to share the characters’ journeys and follow them through their confusion, their discoveries, their chase after Chan Hung. And like most meaningful questions — or “appropriately Chinese” ones as Jo says — Chan is never found. We are left with remnants, memories, blurry photographs, his jacket, his cookies, his dialogues. Wang has done something I’ve never seen any film do: build a journey for the Asian-American viewer. It is not simply representation."
           },
           {
             "type": "text",
@@ -195,9 +191,9 @@
             "value": "Each character in <i>Chan is Missing</i> holds a doughnut which contains the possibilities for Chinese American identity in its center; each character glances in the puddle and takes one bite from the doughnut in an attempt to find her/his access to the center. The big doughnut made up of all the little doughnuts—a doughnut akin to the construction of Chinese American identity which the spectator viewing <i>Chan Is Missing</i> is left with—is almost meaningless, almost wholly \"hole.\" Whereas each character fixes Chan Hung in an attempt to fix her/his own identity, the spectator is not allowed to occupy any one of these fixed perspectives but must instead negotiate all of them. Thus each character's bite out of the doughnut—each character's attempt to limit the range of identities for Chan Hung—opens up the interval in the spectator's doughnut, widening the space for spectatorial subjectivity and, by extension, Asian American subjectivity. <i>Chan Is Missing</i>, by showing us why it is impossible to know precisely who we are as Chinese Americans, shows us how we might discover how we can become Asian Americans."
           }
         ],
-        "headline": "Title Tk",
+        "headline": "The Title’s in a Puddle",
         "date": "March 15, 2021",
-        "byline": "By Jason Kao",
+        "byline": "Jason Kao",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": false,
