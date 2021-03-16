@@ -47,11 +47,11 @@
     },
     {
       "type": "text",
-      "value": "The film is truly peculiar, reminiscent of Du Bois’ notion of two-ness in the first page of <i>The Souls of Black Folk</i>: “two souls, two thoughts, two unreconciled strivings.” To what am I striving with the individual in the puddle? In what bodies, entities do I search to find myself?"
+      "value": "The film, its characters, the puddle — all are truly peculiar, reminiscent of Du Bois’ notion of two-ness in the first page of <i>The Souls of Black Folk</i>: “two souls, two thoughts, two unreconciled strivings.” My name is my Chan Hung. It represents a fragment, a missing piece, an unreconciled striving. To what am I striving with the individual in the puddle? In what bodies, entities do I search to find myself?"
     },
     {
       "type": "text",
-      "value": "I would turn to my parents, but I meet indistinct figures. It’s hard to represent, within myself, the ideas of mother and father. Those two words do not remind me of my parents, nor do any English words and names, as I never called them in English when I was a child. I called them in Mandarin: <span class=\"soundcite\" data-url=\"https://github.com/jsonkao/diaspora/raw/main/src/assets/parents.m4a\" data-start=\"0\" data-end=\"3000\" data-plays=\"1\">爸爸, 妈妈</span>. Even seeing those characters does not offer a fulfilling representation of my parents as I barely wrote or read Mandarin in my childhood. And if I close my eyes and play the audio in my head, saying the words 爸爸 and 妈妈 out loud to myself…"
+      "value": "I turn to my parents, but I meet indistinct figures. It’s hard to represent, within myself, the ideas of mother and father. Those two words do not remind me of my parents, nor do any English words and names, as I never called them in English when I was a child. I called them in Mandarin: <span class=\"soundcite\" data-url=\"https://github.com/jsonkao/diaspora/raw/main/src/assets/parents.m4a\" data-start=\"0\" data-end=\"3000\" data-plays=\"1\">爸爸, 妈妈</span>. Even seeing those characters does not offer a fulfilling representation of my parents as I barely wrote or read Mandarin in my childhood. And if I close my eyes and play the audio in my head, saying the words 爸爸 and 妈妈 out loud to myself…"
     },
     {
       "type": "graphic",
@@ -62,11 +62,11 @@
     },
     {
       "type": "text",
-      "value": "…the representation always feels inadequate no matter how hard I try because I haven’t referred to them in that way in so long. I grew out of it. As I was immersed in English life, I did not replace 爸妈 with English words. Those words were displaced in my vocabulary. And with that linguistic loss, I stopped calling to my parents altogether, only referencing them if absolutely necessary. What I preserve is a sliver of the idea of mother and father, a wisp of memory."
+      "value": "…the representation always feels inadequate no matter how hard I try because I haven’t referred to them in that way in so long. I grew out of it. As I was immersed in English life, I did not replace 爸妈 with English words. The words were instead displaced from my vocabulary. With that linguistic loss, I stopped calling to my parents altogether, only referencing them if absolutely necessary. What I preserve is a sliver of the idea of mother and father, a wisp of memory."
     },
     {
       "type": "text",
-      "value": "I recently told this to my partner, Charlotte. She was raised in China and immigrated to America just before her first year of high school. She had noticed that the contact names of my parent sin my phone were Heidi and Kevin (this began when I had seen my elementary school friends doing the same with their parents). She suggested I change the names of my parents in my phone to 妈妈 and 爸爸."
+      "value": "I recently told this to my partner, Charlotte. She was raised in China and immigrated to America just before her first year of high school. She had noticed that the contact names of my parents in my phone were Heidi and Kevin (this began when I had seen my elementary school friends doing the same with their parents). She suggested I change the names of my parents in my phone to 妈妈 and 爸爸."
     },
     {
       "type": "text",
@@ -88,7 +88,7 @@
     },
     {
       "type": "text",
-      "value": "After my first viewing of Wang’s film, I could not let go of the thought, <i>their English doesn’t sound like mine</i>. I didn’t know why until a conversation with Charlotte."
+      "value": "<i>My English does not sound like theirs.</i> After my first viewing of Wang’s film, I could not let go of that thought, <i>their English doesn’t sound like mine</i>. I didn’t know why until a conversation with Charlotte."
     },
     {
       "type": "audio",
@@ -96,7 +96,7 @@
     },
     {
       "type": "text",
-      "value": "I realized that I had been looking for myself in the film, the first time I had ever engaged with film or literature in this way, with this want — a hidden expectation — of belonging I had developed after not feeling at home on either side of the ocean. And between Jo’s slight Chinese accent and Steve’s heavy American accent, I hadn’t found it. The disappointment stuck with me because it was one of my first. I found that Charlotte shared a similar feeling when surveying the characters of American society:"
+      "value": "I realized that I had been looking for myself in the film. It was the first time I had ever engaged with film or literature in this way, with this want — a hidden expectation — of belonging I had developed after not feeling at home on either side of the ocean. Between Jo’s slight Chinese accent and Steve’s heavy American accent, I hadn’t found it. The disappointment stuck with me because it was one of my first. I found that Charlotte shared a similar feeling when surveying the characters of American society:"
     },
     {
       "type": "audio",
@@ -144,49 +144,42 @@
     },
     {
       "type": "text",
-      "value": "However, the East-West crossover seems less of a vehicle on which Asian-American identity can blossom than a wealth porn. [ Chan is different in this way ]"
-    },
-    {
-      "type": "text",
-      "value": "For instance, both Steve in <i>Chan is Missing</i> and Goh Wye Mun (Ken Jeong) in <i>Crazy Rich Asians</i> mimic Chinese accents and take pride in their American identity."
+      "value": "However, <i>Chan is Missing</i> extends representation in a way <i>Crazy Rich Asians</i> could not: by allowing the Asian-American identity to blossom. For instance, both Steve in <i>Chan is Missing</i> and Wye Mun in <i>Crazy Rich Asians</i> mimic Chinese accents and take pride in their American identity."
     },
     {
       "type": "dual-video",
       "value": {
-        "asset1": "chinese-chinese.mp4",
-        "asset2": "calstate.mp4",
-        "caption1": "“Hey, what kind of Chaii-neese Chinese are you 啊?”",
-        "caption2": "“Cal State Fullerton.”"
+        "asset2": "chinese-chinese.mp4",
+        "asset1": "calstate.mp4",
+        "caption2": "“Hey hey, what kind of Chaii-neese Chinese are you 啊?”",
+        "caption1": "“Cal State Fullerton.”"
       }
     },
     {
       "type": "text",
-      "value": "They both play off Chinese identity in favor of their Wester ones. Steve, a third-generation immigrant, sees himself as an American, a bystander spectating the conflicting Asian identities circling not within, but without. Wye Mun, as if answering Steve, assures the table he is not a “PRC” Chinese, not a “Oakland Hill·wa?”, but a “Cal State Fullerton” Chinese who studied in the States. But the two have radically different journeys in the movie."
+      "value": "They both play off Chinese identity in favor of their Western ones. Steve, a third-generation immigrant, sees himself as an American, a bystander spectating the conflicting Asian identities circling not within, but without. Wye Mun, as if answering Steve, assures the table he is not a “PRC” Chinese, not a “Oakland Hill·wa?”, but a “Cal State Fullerton” Chinese who studied in the States. However, the two have radically different journeys in their respective films."
     },
     {
       "type": "dual-faces",
       "value": {
         "face1": "face-steve.png",
         "face2": "face-ken.png",
-        "caption": "The final frames of the two videos."
+        "caption": "Their faces in the final frames."
       }
     },
     {
       "type": "text",
-      "value": "Steve’s aggression in his rejection of identity serves to highlight the loss and sympathy that Jo feels for Chan Hung. In this way Steve builds one character with Jo, as they represent two faces, of many, of Chinese-American identity. But for Wye Mun, the issue is a one-off joke just to say, “don’t worry, we’re not <i>those</i> kinds of Asians.”"
+      "value": "Steve’s aggression in his rejection of identity serves to highlight the loss and sympathy that Jo feels for Chan Hung. In this way Steve builds one character with Jo, as they represent two faces, of many, of Chinese-American identity. Because the characters of <i>Chan is Missing</i> works together to build one character, one journey, one space for discovering identity. But for Wye Mun, the one-off joke of “don’t worry, we’re not <i>those</i> kinds of Asians” acts alone, not as a collaborator."
     },
     {
       "type": "text",
-      "value": "Representation is not always truly seeing oneself on screen. <i>Chan</i> presents a journey that is complete in its well-roundedness and incomplete in its true authenticity. It displays the beautiful diversity of Chinatown. It tells a story that displacement, without resolve, is okay. It teaches that Chinese-American culture is one of pondering and dialogue, not one of answers."
+      "value": "Representation does not guarantee the seeing of oneself on screen. <i>Chan is Missing</i> presents a journey that is complete in its well-roundedness and incomplete in its true authenticity. It displays the beautiful diversity of Chinatown. It tells a story that displacement, without resolve, is okay. It teaches that Chinese-American culture is one of pondering and dialogue, not one of answers."
     },
     {
       "type": "text",
-      "value": "Peter Feng writes in the conclusion of his <a href=\"https://www.jstor.org/stable/1225719\">essay</a> “Being Chinese American, Becoming Asian American” that"
-    },
-    {
-      "type": "blockquote",
-      "value": "Each character in <i>Chan is Missing</i> holds a doughnut which contains the possibilities for Chinese American identity in its center; each character glances in the puddle and takes one bite from the doughnut in an attempt to find her/his access to the center. The big doughnut made up of all the little doughnuts—a doughnut akin to the construction of Chinese American identity which the spectator viewing <i>Chan Is Missing</i> is left with—is almost meaningless, almost wholly \"hole.\" Whereas each character fixes Chan Hung in an attempt to fix her/his own identity, the spectator is not allowed to occupy any one of these fixed perspectives but must instead negotiate all of them. Thus each character's bite out of the doughnut—each character's attempt to limit the range of identities for Chan Hung—opens up the interval in the spectator's doughnut, widening the space for spectatorial subjectivity and, by extension, Asian American subjectivity. <i>Chan Is Missing</i>, by showing us why it is impossible to know precisely who we are as Chinese Americans, shows us how we might discover how we can become Asian Americans."
+      "value": "My name is not found, nor is it meant to be found. It is meant to be negotiated. Because in the puddle, I not only see my own face, as Chan’s musician friend does, but I see Jo’s face, Steve’s face, Peter’s face — the faces of everyone who attempts to find Chan, my name."
     }
   ],
-  "footer": "Footage and imagery of <i>Chan is Missing</i> sourced from <a href=\"https://www.youtube.com/watch?v=EhgSui0V_qY&t=1382s\">YouTube</a>. Footage and imagery of <i>Crazy Rich Asians </i>sourced from <a href=\"https://www.youtube.com/watch?v=ZrsYIthVY-Y\">YouTube</a>."
+  "footer": "Footage and imagery of <i>Chan is Missing</i> sourced from <a href=\"https://www.youtube.com/watch?v=EhgSui0V_qY&t=1382s\">YouTube</a>. Footage and imagery of <i>Crazy Rich Asians </i>sourced from <a href=\"https://www.youtube.com/watch?v=ZrsYIthVY-Y\">YouTube</a>.",
+  "blockquote": "Each character in <i>Chan is Missing</i> holds a doughnut which contains the possibilities for Chinese American identity in its center; each character glances in the puddle and takes one bite from the doughnut in an attempt to find her/his access to the center. The big doughnut made up of all the little doughnuts—a doughnut akin to the construction of Chinese American identity which the spectator viewing <i>Chan Is Missing</i> is left with—is almost meaningless, almost wholly \"hole.\" Whereas each character fixes Chan Hung in an attempt to fix her/his own identity, the spectator is not allowed to occupy any one of these fixed perspectives but must instead negotiate all of them. Thus each character's bite out of the doughnut—each character's attempt to limit the range of identities for Chan Hung—opens up the interval in the spectator's doughnut, widening the space for spectatorial subjectivity and, by extension, Asian American subjectivity. <i>Chan Is Missing</i>, by showing us why it is impossible to know precisely who we are as Chinese Americans, shows us how we might discover how we can become Asian Americans."
 }
