@@ -92,7 +92,7 @@
           },
           {
             "type": "text",
-            "value": "<i>My English does not sound like theirs.</i> After my first viewing of Wang’s film, I could not let go of that thought, <i>their English doesn’t sound like mine</i>. I didn’t know why until a conversation with Charlotte."
+            "value": "<i>My English does not sound like theirs.</i> After my first viewing of Wang’s film, I could not let go of that thought. I didn’t know why until a conversation with Charlotte."
           },
           {
             "type": "audio",
@@ -112,7 +112,7 @@
           },
           {
             "type": "text",
-            "value": "Representation is both indispensable and inadequate. It is indispensable because of the millions of children of color who have grown up believing White is good. All those teen movies with <strike>cool</strike><i> </i>White boys and <strike>cool</strike> White girls in <strike>cool</strike> White houses and <strike>cool</strike> White parents in <strike>cool</strike> White schools — you grow to aspire to them. Whiteness comes to signify beauty and desirability. (Sometimes when flipping through Tinder I joke with my friends, “Are they hot, or just white?”)"
+            "value": "Representation is indispensable, but inadequate. It is indispensable because of the millions of children of color who have grown up believing White is good. All those teen movies with <strike>cool</strike><i> </i>White boys and <strike>cool</strike> White girls in <strike>cool</strike> White houses and <strike>cool</strike> White parents in <strike>cool</strike> White schools — you grow to aspire to them. Whiteness comes to signify beauty and desirability. (Sometimes when flipping through Tinder I joke with my friends, “Are they hot, or just white?”)"
           },
           {
             "type": "image",
@@ -153,10 +153,10 @@
           {
             "type": "dual-video",
             "value": {
-              "asset2": "chinese-chinese.mp4",
-              "asset1": "calstate.mp4",
-              "caption2": "“Hey hey, what kind of Chaii-neese Chinese are you 啊?”",
-              "caption1": "“Cal State Fullerton.”"
+              "asset1": "chinese-chinese.mp4",
+              "asset2": "calstate.mp4",
+              "caption1": "“Hey hey, what kind of Chaii-neese Chinese are you 啊?”",
+              "caption2": "“Cal State Fullerton.”"
             }
           },
           {
