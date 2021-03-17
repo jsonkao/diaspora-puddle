@@ -448,6 +448,11 @@ header {
 .width-full-width {
   max-width: 1300px;
   padding: 0 $gbody-padding * 1.5;
+
+  .image-caption-text {
+    padding: 0;
+    text-align: center;
+  }
 }
 
 .width-full-bleed {
