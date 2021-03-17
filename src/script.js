@@ -40,3 +40,12 @@ setInterval(() => {
   }
   state = (state + 1) % 3;
 }, 2500);
+
+/* Flash */
+
+const flashed = document.getElementById('flash');
+function flash() {
+  flashed.style.opacity = 1 - flashed.style.opacity;
+  requestAnimationFrame(flash);
+}
+requestAnimationFrame(flash);

@@ -44,18 +44,6 @@ video {
   }
 }
 
-@keyframes fade {
-  0% {
-    opacity: 0;
-  }
-  50% {
-    opacity: 1;
-  }
-  100% {
-    opacity: 0;
-  }
-}
-
 .dual-faces {
   max-width: 500px;
   display: flex;
@@ -77,7 +65,8 @@ video {
       position: absolute;
     }
     img:last-child {
-      animation: fade 9s ease-in-out infinite;
+      position: relative;
+      // animation: fade 2s infinite;
     }
   }
 }
