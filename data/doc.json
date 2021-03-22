@@ -1,16 +1,16 @@
 {
   "headline": "The Title’s in a Puddle",
-  "date": "March 15, 2021",
+  "date": "March 22, 2021",
   "byline": "Jason Kao",
   "top": [],
   "body": [
     {
       "type": "text",
-      "value": "The three letters in the word “Kao” always seemed less Eastern to me — less than, at least, the Chen’s and Wu’s and Li’s who were read off attendance roll calls like huge families arriving at a restaurant. I felt that Kao made me different somehow, different in a good way. The name wasn’t as Asian. It wasn’t as revealing. No one would know that I was Asian, at least at that nominal stage of interaction."
+      "value": "The three letters in the word “Kao” always seemed less Eastern to me — less than, at least, the Chen’s and Wu’s and Li’s who were read off attendance roll calls like huge families arriving at a restaurant. I felt that Kao made me different somehow, different in a good way. The name wasn’t as revealing. No one would think that I was Asian, at least at that nominal stage of interaction."
     },
     {
       "type": "text",
-      "value": "Kao, 高, is a frequent family name in Taiwan. I’ve met a good number of Kao’s and Gao’s (two valid Anglicizations of 高) in America as well. When I thought of those Kao’s, I knew them to be Asian. Yet when I thought of myself, I still was not. That prominent labelling was not an Eastern mark to me. Because when I saw myself, I saw no Eastern mark."
+      "value": "Kao, 高, is a frequent family name in Taiwan. I’ve met a good number of Kao’s and Gao’s (two valid Anglicizations of 高) in America as well. When I thought of those Kao’s, I knew them to be Asian. Yet that prominent labelling was not an Eastern mark for me. Because when I saw myself, I saw no Eastern mark."
     },
     {
       "type": "graphic",
@@ -25,7 +25,7 @@
     },
     {
       "type": "text",
-      "value": "In Wayne Wang’s 1982 feature <i>Chan is Missing</i>, Jo, a taxi driver, and his nephew Steve seek to find their business partner Chan Hung, who has disappeared with their money. The duo knock on doors all across Chinatown and encounter conflicting accounts of Chan: he left the country; he stole their money; he was in trouble with the police; he was involved in a murder. Chan Hung’s disappearance and investigation come to embody the loss, longing, and diversity of identity among Chinese-Americans. Presco, an employee at a senior center Chan Hung frequented, compares his disappearance to the sudden disability of Chan Hung’s musician friend:"
+      "value": "In Wayne Wang’s 1982 feature <i>Chan is Missing</i>, Jo, a taxi driver, and his nephew Steve seek to find their business partner Chan Hung, who has disappeared with their money. The duo knock on doors all across Chinatown and encounter conflicting accounts of Chan: he left the country; he stole their money; he was in trouble with the police; he was an aeronautical engineer who couldn’t get a job; he was involved in a murder. Chan Hung’s disappearance and investigation come to embody the loss, longing, and diversity of identity among Chinese-Americans. Presco, an employee at a senior center Chan Hung frequented, compares his disappearance to the sudden disability of Chan Hung’s musician friend:"
     },
     {
       "type": "video",
@@ -55,7 +55,7 @@
     },
     {
       "type": "text",
-      "value": "I turn to my parents, but I meet indistinct figures. It’s hard to represent, within myself, the ideas of mother and father. Those two words do not remind me of my parents, nor do any English words, as I’ve never called them in English. I called them in Mandarin: 爸爸, 妈妈. Even seeing those characters does not offer a fulfilling representation of my parents as I barely wrote or read Mandarin after childhood. And if I close my eyes and play the audio in my head, saying the words <span class=\"soundcite\" data-url=\"https://github.com/jsonkao/diaspora/raw/main/src/assets/parents.m4a\" data-start=\"0\" data-end=\"3000\" data-plays=\"1\">爸爸 and 妈妈</span> out loud to myself many times…"
+      "value": "I turn to my parents, but I sense blurry figures. It’s hard to represent, within myself, the ideas of mother and father. Those two words do not remind me of my parents, nor do any English words, as I’ve never called them in English. I called them in Mandarin: 爸爸, 妈妈. Even seeing those characters does not offer a fulfilling representation of my parents as I barely wrote or read Mandarin after childhood. And if I close my eyes and play the audio in my head, saying the words <span class=\"soundcite\" data-url=\"https://github.com/jsonkao/diaspora/raw/main/src/assets/parents.m4a\" data-start=\"0\" data-end=\"3000\" data-plays=\"1\">爸爸 and 妈妈</span> out loud to myself many times…"
     },
     {
       "type": "graphic",
@@ -66,21 +66,7 @@
     },
     {
       "type": "text",
-      "value": "…it  always feels inadequate no matter how hard I try because I haven’t referred to them with that representation in so long. I grew out of it: As I was immersed in English life, I did not replace 爸妈 with English words. The words were instead displaced from my vocabulary. With that linguistic loss, I stopped calling to my parents altogether, only referencing them if absolutely necessary. What I preserve is a sliver of the idea of mother and father, a wisp of memory."
-    },
-    {
-      "type": "text",
-      "value": "It’s a story of having originated in Mandarin, in Taiwan, to Taiwanese people. Being born in America but immediately being flown back to Taiwan to see my <i>family</i>. But growing up in a different way of life with a new vocabulary, a new language, a new paradigm. When the only time I think about Mandarin is when my mom says, 在家里不要说英文, 可以说中文。"
-    },
-    {
-      "type": "graphic",
-      "value": {
-        "asset": "google-translate.html"
-      }
-    },
-    {
-      "type": "text",
-      "value": "I proceed to talk in English."
+      "value": "…it  feels slightly inadequate because I haven’t referred to them with that representation in so long. I grew out of it: As I was immersed in English life, I did not replace 爸妈 with English words. The words were instead displaced from my vocabulary. With that linguistic loss, I stopped calling to my parents altogether, only referencing them if absolutely necessary. What I preserve is a sliver of the idea of mother and father, a wisp of memory."
     },
     {
       "type": "text",
@@ -96,11 +82,11 @@
     },
     {
       "type": "text",
-      "value": "The Asian-American identity I had begun to feel a pulling towards was taken from under me when I assumed incorrectly that my parents had faced the same struggle of becoming an Asian-American. They did not see themselves as sharing in that history. And 爸爸 told me that the way in which he was different from those around him was just by blood and ancestry, because culture was gradually being merged."
+      "value": "I had assumed incorrectly that my parents thought of themselves as Asian-American, and thus I questioned my own understanding of that identity. I was disappointed that I believed they had the answers. It seemed, to me, that they did not see themselves as sharing in the Asian-American experience. 爸爸 told me that he differed from his American peers in blood and ancestry, but not much else, because global cultures were gradually melting together."
     },
     {
       "type": "text",
-      "value": "I did not have to struggle like the 19th century Asian-Americans. But I do feel a sort of kinship with them. The country has not gotten much less xenophobic toward Asian-Americans, especially after 9/11 or during economic downturns. The country has not rid itself of lynchings. Most importantly, however, the search for Chan seems to have remained so constant, and so constantly diverse."
+      "value": "I did not have to struggle like the 19th century Asian-Americans. But I do feel a sort of kinship with them. The country has not gotten much less xenophobic toward Asian-Americans, especially after 9/11 or during economic downturns. The country has not rid itself of lynchings of Black, Asian, Latino, and Indigenous people. And fundamentally, the search for Chan for immigrants and their children seems to have remained so constant, and so constantly diverse."
     },
     {
       "type": "text",
@@ -124,15 +110,15 @@
     },
     {
       "type": "text",
-      "value": "Soon after I reached out to my friend, Natalie, a Korean-American student. Her father was born in the U.S. to Korean immigrants, and her mother was an immigrant herself. She would be considered what Charlotte called “one of the Asian-American kids”. Because Charlotte felt herself to be a “Chinese overseas person”, and my parents felt like unhyphenated Taiwanese Americans, but Natalie and I were both <a href=\"https://www.google.com/search?q=american+born+chinese\">ABCs</a>. Natalie faced the microaggressions I felt, as well as the loss of ownership of history and culture given her cultural separation. Yet she felt an earlier belonging to her hyphenated identity given the shared experiences she had with her other Asian-American friends — experiences that were uniquely Asian-American."
+      "value": "Soon after I reached out to my friend, Natalie, a Korean-American student. Her father was born in the U.S. to Korean immigrants, and her mother was an immigrant herself. She would be considered what Charlotte called “one of the Asian-American kids”. Charlotte felt herself to be a “Chinese overseas person”, and my parents felt like unhyphenated Taiwanese Americans, and Natalie and I were both <a href=\"https://www.google.com/search?q=american+born+chinese\">ABCs</a>. Natalie faced the microaggressions I felt, as well as the loss of ownership of history and culture given her cultural separation. Yet she felt a belonging to her hyphenated identity given the shared experiences she had with her other Asian-American friends — experiences that were uniquely Asian-American."
     },
     {
       "type": "text",
-      "value": "After the dialogue I felt the need to rewatch the film. I did some research online, but at the beginning it was fruitless. The two most popular reviews were by white film critics, who saw the film as “an appreciation of a way of life that few of us know anything about” (<a href=\"https://www.nytimes.com/1982/04/24/movies/chan-is-missing-in-chinatown.html\">Vincent Canby</a>) and “a look at some real Chinese-Americans” (<a href=\"https://www.rogerebert.com/reviews/chan-is-missing-1982\">Roger Ebert)</a>. It wasn’t until I came across the film’s Wikipedia page that I realized the purpose of the film had completely gone over my head: the search for Chan was a search for identity. I wasn’t supposed to use Steve or Jo or anyone else in the film as a model Asian-American. I was to share the characters’ journeys and follow them through their confusion, their discoveries, their chase after Chan Hung. And like most meaningful questions — or “appropriately Chinese” ones as Jo says — Chan is never found. We are left with remnants, memories, blurry photographs, his jacket, his cookies, his dialogues. Wang has done something I’ve never seen any film do: build a journey for the Asian-American viewer. It is not simply representation."
+      "value": "After the dialogue I felt the need to rewatch the film. I did some research online, but at the beginning it was fruitless. The two most popular reviews were by white film critics, who saw the film as “an appreciation of a way of life that few of us know anything about” (<a href=\"https://www.nytimes.com/1982/04/24/movies/chan-is-missing-in-chinatown.html\">Vincent Canby</a>) and “a look at some real Chinese-Americans” (<a href=\"https://www.rogerebert.com/reviews/chan-is-missing-1982\">Roger Ebert)</a>. It wasn’t until I came across the film’s Wikipedia page that I realized the purpose of the film had completely gone over my head: the search for Chan was a search for identity. I wasn’t supposed to use Steve or Jo or anyone else in the film, or my life, as a model Asian-American. I was to share their journeys and follow them through their confusion, their discoveries, their chase after Chan. And like most meaningful questions — or “appropriately Chinese” ones as Jo says, but I don’t get — Chan is never found. We are left with remnants, memories, blurry photographs, his jacket, his cookies, his dialogues. Wang has done something I’ve never seen any film do: build a journey for the Asian-American viewer."
     },
     {
       "type": "text",
-      "value": "Representation is indispensable, but inadequate. It is indispensable because of the millions of children of color who have grown up believing White is good. All those teen movies with <strike>cool</strike><i> </i>White boys and <strike>cool</strike> White girls in <strike>cool</strike> White houses and <strike>cool</strike> White parents in <strike>cool</strike> White schools — you grow to aspire to them. Whiteness comes to signify beauty and desirability. (Sometimes when flipping through Tinder I joke with my friends, “Are they hot, or just white?”)"
+      "value": "It is not just representation. Representation is indispensable, but inadequate. It is indispensable because of the millions of children of color who have grown up believing White is good. All those teen movies with <strike>cool</strike><i> </i>White boys and <strike>cool</strike> White girls in <strike>cool</strike> White houses and <strike>cool</strike> White parents and <strike>cool</strike> White grandparents in <strike>cool</strike> White schools — you grow to aspire to them. Whiteness comes to signify beauty and desirability. (Sometimes when flipping through Tinder I joke with my friends, “Are they hot, or just white?”)"
     },
     {
       "type": "image",
@@ -144,7 +130,7 @@
     },
     {
       "type": "text",
-      "value": "A properly assimilated Chinese — until you realize you’re not White. Until you realize that assimilation is not okay, and that White exclusivity is violent. Representation disproves those self-embodied notions. In her essay <a href=\"https://terrawolves.com/ourpages/auto/2015/9/17/53524157/hooks--Glory.pdf\">“In Our Glory: Photography and Black Life”</a>, bell hooks writes that the agency available in photography is the control over representation."
+      "value": "A properly assimilated Chinese — until you realize you’re not White. Until you realize that assimilation is not a simple or necessarily okay process, and that White exclusivity is violent. Representation disproves those self-embodied notions. In her essay <a href=\"https://terrawolves.com/ourpages/auto/2015/9/17/53524157/hooks--Glory.pdf\">“In Our Glory: Photography and Black Life”</a>, bell hooks writes that the agency available in photography is the control over representation."
     },
     {
       "type": "blockquote",
@@ -156,7 +142,7 @@
     },
     {
       "type": "text",
-      "value": "Representation is inadequate in that its purpose is to resist Whiteness. Take <i>Crazy Rich Asians</i> for instance. One barrier it breaks is by showing undeniably sexy Asian men (take note, Steve Harvey)."
+      "value": "Representation is inadequate in that its purpose, in one meaning of the word, is to resist Whiteness. Take <i>Crazy Rich Asians</i> for instance. One barrier it breaks is by showing undeniably sexy Asian men (take note, <a href=\"https://www.hollywoodreporter.com/news/disturbing-history-behind-steve-harveys-asian-men-jokes-963735\">Steve Harvey</a>)."
     },
     {
       "type": "image",
@@ -168,7 +154,7 @@
     },
     {
       "type": "text",
-      "value": "However, <i>Chan is Missing</i> extends representation in a way <i>Crazy Rich Asians</i> could not: by allowing the Asian-American identity to blossom. For instance, both Steve in <i>Chan is Missing</i> and Wye Mun in <i>Crazy Rich Asians</i> mimic Chinese accents and take pride in their American identity."
+      "value": "However, <i>Chan is Missing</i>, by allowing the Asian-American identity to blossom, extends representation in a way <i>Crazy Rich Asians</i> could not. For instance, both Steve in <i>Chan is Missing</i> and Wye Mun in <i>Crazy Rich Asians</i> mimic Chinese accents and take pride in their American identity."
     },
     {
       "type": "dual-video",
@@ -201,7 +187,7 @@
     },
     {
       "type": "text",
-      "value": "My name is not found, nor is it meant to be found. It is meant to be negotiated. Because in the puddle, I not only see my own face, as Chan’s musician friend does, but I see Jo’s face, Steve’s face, Peter’s face — the faces of everyone who attempts to find Chan, my name."
+      "value": "My name is not found, nor is it meant to be found. It is meant to be negotiated. Because in the puddle, I not only see my own face, but also see Jo’s, Steve’s, and Peter’s — the faces of everyone who attempts to find Chan, my name."
     }
   ],
   "footer": "Footage and imagery of <i>Chan is Missing</i> sourced from <a href=\"https://www.youtube.com/watch?v=EhgSui0V_qY&t=1382s\">YouTube</a>. Footage and imagery of <i>Crazy Rich Asians </i>sourced from <a href=\"https://www.youtube.com/watch?v=ZrsYIthVY-Y\">YouTube</a>.",
