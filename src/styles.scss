@@ -17,6 +17,12 @@ video {
   display: block;
 }
 
+.video-container.wider {
+  video, .caption {
+    max-width: 990px;
+  }
+}
+
 .dual-video {
   display: flex;
   max-width: 1200px;
@@ -103,7 +109,7 @@ video {
   font-family: Graphik;
   background-size: 200% auto;
   background-color: white;
-  background: linear-gradient(to bottom right, #222, #222, #222, #ff6b08, #f32170, #cf23cf, #eedd44);
+  background: linear-gradient(to bottom right, #222, #222, #5d8d5d, #a3d0b5, #b4d6ad);
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;

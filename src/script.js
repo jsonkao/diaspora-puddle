@@ -2,6 +2,7 @@
 
 function repeatWords() {
   for (const div of document.getElementsByClassName('repeat')) {
+    div.innerHTML = '';
     const word = div.getAttribute('data-word') + ' ';
     const p = document.createElement('p');
     div.appendChild(p);
@@ -25,6 +26,7 @@ function repeatWords() {
 }
 
 window.addEventListener('load', repeatWords);
+window.addEventListener('resize', repeatWords);
 
 /* Google translate graphic */
 
