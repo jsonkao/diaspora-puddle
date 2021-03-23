@@ -25,24 +25,6 @@ function repeatWords() {
   }
 }
 
-window.addEventListener('load', repeatWords);
-window.addEventListener('resize', repeatWords);
-
-/* Google translate graphic */
-
-const { children: gtImages } = document.getElementById('google-translate');
-let state = 0;
-
-setInterval(() => {
-  if (state > 0) {
-    gtImages[state].style.opacity = 1;
-  } else {
-    gtImages[1].style.opacity = 0;
-    gtImages[2].style.opacity = 0;
-  }
-  state = (state + 1) % 3;
-}, 2500);
-
 /* Flash */
 
 const flashed = document.getElementById('flash');
@@ -50,4 +32,11 @@ function flash() {
   flashed.style.opacity = 1 - flashed.style.opacity;
   requestAnimationFrame(flash);
 }
-requestAnimationFrame(flash);
+
+/* Init */
+
+window.addEventListener('load', () => {
+  repeatWords();
+  requestAnimationFrame(flash);
+});
+window.addEventListener('resize', repeatWords);
