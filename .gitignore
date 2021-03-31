@@ -4,6 +4,7 @@ node_modules
 # Parcel
 .cache
 dist
+build
 
 # Other
 .DS_Store
